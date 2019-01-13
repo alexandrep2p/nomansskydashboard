@@ -1,5 +1,5 @@
 # No Man's Sky Dashboard
-Elaboração de conceito de UI para uma dashboard para o jogo [No Man's Sky.](https://www.nomanssky.com/)
+Conceito de UI de dashboard para o jogo [No Man's Sky.](https://www.nomanssky.com/)
 
 ## Ferramentas e stack utilizada
 -  [Visual Studio Code](https://code.visualstudio.com/)
