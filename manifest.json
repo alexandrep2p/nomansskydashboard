@@ -1,0 +1,7 @@
+{
+    "name": "NMS Dashboard",
+    "short_name": "NMS",
+    "theme_color": "#89d7b1",
+    "display": "browser",
+    "orientation": "portrait"
+}
